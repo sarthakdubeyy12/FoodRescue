@@ -17,7 +17,6 @@
 To create a sustainable ecosystem where surplus food reaches those who need it most, reducing waste while feeding communities with dignity and respect.
 
 ### 📊 Impact
-- **12,000+ meals served** through the platform
 - **Multi-role user system** supporting donors, volunteers, shelters, and administrators
 - **Real-time tracking** of food donations from pickup to delivery
 - **Comprehensive analytics** for impact measurement
